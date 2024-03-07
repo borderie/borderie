@@ -3,7 +3,7 @@
 ---
 
 ### My current favorite tech stack
-[![My Skills](https://skillicons.dev/icons?i=symfony,tailwind,postgres,flutter,dart,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=symfony,tailwind,postgres,flutter,dart,pytorch,godot)](https://skillicons.dev)
 ### and current fav tools
 [![My Skills](https://skillicons.dev/icons?i=phpstorm,obsidian,gitlab,androidstudio)](https://skillicons.dev)
 
