@@ -11,6 +11,6 @@
 
 ### Last projet
 
-### Dasyure - mobile app (social network)
+### mobile app (social network)
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,supabase,flutter,dart)](https://skillicons.dev)
